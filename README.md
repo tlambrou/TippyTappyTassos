@@ -1,2 +1,2 @@
 # TippyTappyTassos
-Spec project clone of Notes app for Make School Product Academy Apps Track 2017
+Spec project clone of Tip Calculator app for Make School Product Academy Apps Track 2017
